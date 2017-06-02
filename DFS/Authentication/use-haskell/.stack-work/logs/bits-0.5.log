@@ -1,0 +1,16 @@
+[1 of 1] Compiling Main             ( /tmp/stack19932/bits-0.5/Setup.lhs, /tmp/stack19932/bits-0.5/.stack-work/dist/x86_64-linux/Cabal-1.24.0.0/setup/Main.o )
+
+/tmp/stack19932/bits-0.5/Setup.lhs:58:69: warning: [-Wdeprecations]
+    In the use of type constructor or class ‘InstalledPackageId’
+    (imported from Distribution.Package):
+    Deprecated: "Use UnitId instead"
+Linking /tmp/stack19932/bits-0.5/.stack-work/dist/x86_64-linux/Cabal-1.24.0.0/setup/setup ...
+Configuring bits-0.5...
+Building bits-0.5...
+Preprocessing library bits-0.5...
+[1 of 3] Compiling Data.Bits.Extras ( src/Data/Bits/Extras.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Bits/Extras.o )
+[2 of 3] Compiling Data.Bits.Coding ( src/Data/Bits/Coding.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Bits/Coding.o )
+[3 of 3] Compiling Data.Bits.Coded  ( src/Data/Bits/Coded.hs, .stack-work/dist/x86_64-linux/Cabal-1.24.0.0/build/Data/Bits/Coded.o )
+Installing library in
+/home/ois/.stack/snapshots/x86_64-linux/nightly-2016-12-10/8.0.1/lib/x86_64-linux-ghc-8.0.1/bits-0.5-1ocyGydQDs213dHs74YLSb
+Registering bits-0.5...
